@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+venv_clean/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+
+# Mac system files
+.DS_Store
+
+# ML / vector DB
+faiss_index/
+vector_db/
+vector_store/
+models/yy
+.DS_Store
